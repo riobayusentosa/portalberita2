@@ -1,3 +1,10 @@
+*************************
+Studi Kasus Portal Berita
+*************************
+
+<a href="https://cakrawaladigital.com/home/news/30-portal-berita-mengkonfigurasi-framework-codeigniter-dengan-database-bagian-2">Tutorial 2</a>
+
+
 ###################
 What is CodeIgniter
 ###################
